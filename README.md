@@ -112,3 +112,9 @@ Pseudocode for the forward-backward algorithm is given in the following.
 
 Note1: Although in principle the Forward-Backward algorithm can do completely unsupervised learning of the A and B parameters, in practice the initial conditions are very important. For this reason, the algorithm is often given extra information. For example, for HMM-based speech recognition, the HMM structure is often set by hand, and only the emission (B) and (non-zero) A transition probabilities are trained from a set of observation sequences O.
 
+
+# Reference:
+[stanford.pdf](https://github.com/ParisanSH/Hidden-Markov-Model/files/10328881/stanford.pdf)
+
+
+ 
